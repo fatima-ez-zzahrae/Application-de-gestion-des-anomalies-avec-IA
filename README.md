@@ -1,1 +1,1 @@
-# Application-de-gestion-des-anomalies-avec-IA
+# Application-de-gestion-des-anomalies-avec-l'intégration-du-IA
